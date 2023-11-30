@@ -1,1 +1,1 @@
-Resolucao de 115 exercicios sobre linguagem Python 
+Resolucao de 115 exercicios -linguagem Python 
