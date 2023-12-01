@@ -1,1 +1,1 @@
-Resolucao de 115 exercicios -linguagem Python 
+Resolution of 115 exercises - Python language
